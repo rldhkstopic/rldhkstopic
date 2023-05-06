@@ -1,7 +1,7 @@
 ### 👋 Hi There 
 
 #### 🎓 MASTER : Hanyang Univ. Intelligence Communication System Labs
-#### 💻 INTERST : 3D Object Detection, Embedded RTOS with AI
+#### 💻 INTERST : Lidar, Radar Based 3D Object Detection / Segmentation
 #### 💬 Ask me : rldhks6899@hanyang.ac.kr
 
 
