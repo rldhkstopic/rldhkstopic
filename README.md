@@ -1,7 +1,14 @@
-### 👋 Hi There 
+**🎓 BACHELOR : School of ELECTRICAL ENGINEERING**
+<br>
 
-#### 🎓 MASTER : MS of Hanyang Univ. with LIG Nex1
-#### 💻 INTERST : 3D Computer Vision & Object Detection
+**🎓 MASTER : Department of Intelligence and Information Engineering**
+<br>
 
-#### 💬 Ask me : rldhks6899@hanyang.ac.kr
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps%3A%2F%2Fgithub.com%2Frldhkstopic&count_bg=%23363636&title_bg=%23FF2B2B&icon=apachemaven.svg&icon_color=%23FFFFFF&title=&edge_flat=true)](https://hits.seeyoufarm.com)
+- *📖 Field : 3D Vision Transformer Detection & Classification*
+<br>
+
+
+
+
+
+*Contact : rldhks6899@hanyang.ac.kr*
