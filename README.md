@@ -4,7 +4,7 @@
 **🎓 MASTER : Department of Intelligence and Information Engineering**
 <br>
 
-- *📖 Field : 3D Vision Transformer Detection & Classification*
+- *📖 Field : Data Augmentation?*
 <br>
 
 
