@@ -4,7 +4,7 @@
 **🎓 MASTER : Department of Intelligence and Information Engineering**
 <br>
 
-- *📖 Field : Data Augmentation?*
+- *📖 Field : Unsupervised Domain Adaptation*
 <br>
 
 
