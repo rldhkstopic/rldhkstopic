@@ -4,7 +4,7 @@
 **🎓 MASTER : Department of Intelligence and Information Engineering**
 <br>
 
-- *📖 Field : Online Test-daptation for Image classification*
+- *📖 Field : Online Test-tiem adaptation for Image classification*
 <br>
 
 
