@@ -4,7 +4,7 @@
 **🎓 MASTER : Department of Intelligence and Information Engineering**
 <br>
 
-- *📖 Field : TranferLearning, Domain Adaptation*
+- *📖 Field : Online Test-daptation for Image classification*
 <br>
 
 
