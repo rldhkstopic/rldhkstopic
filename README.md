@@ -15,5 +15,3 @@ pin
 - [Universal Test-time Adaptation; GTTA, ROID](https://github.com/mariodoebler/test-time-adaptation)
 
 
-
-[.](https://icslnas.synology.me/d/s/yV2gUA5Dbqp7yMuxoIgcwnqVahlyS4za/N1qLbxFYrcBorf12bMbdcE0TDohd9jtg-WrHgBiCvXQs)
